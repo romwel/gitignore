@@ -1,2 +1,5 @@
 # Notepad++ backups #
 *.bak
+
+# Notepad++ SourceCookifier plugin
+.c00k!e
